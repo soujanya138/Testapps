@@ -1,6 +1,6 @@
 public with sharing class AcctUpsertList {
     public AcctUpsertList() {
-
+//2nd git by Gopi
     }
     public static void upsertListAccout(){
         List<String> accdetails=new List<String>{'Bombay'};
